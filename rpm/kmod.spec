@@ -1,6 +1,6 @@
 Name:       kmod
 Summary:    Linux kernel module handling
-Version:    16
+Version:    17
 Release:    1
 Group:      Kernel/Linux Kernel
 License:    GPLv2
